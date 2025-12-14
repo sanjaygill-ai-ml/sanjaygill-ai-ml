@@ -2,27 +2,28 @@
 <h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-Learn;TensorFlow+%7C+Data+Analysis+%7C+AI;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-Learn;TensorFlow+%7C+Data+Analysis+%7C+AI;Turning+Data+into+Intelligence" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I work on **Data Analysis, Machine Learning & Deep Learning projects**
-- 🧠 Strong knowledge of **Statistics, ML algorithms & Neural Networks**
-- 📊 Love transforming **raw data into insights**
-- 🌱 Currently exploring **Advanced Deep Learning & AI**
-- 💡 Passionate about solving real-world problems using data
+- 🔭 Working on **Data Analysis, Machine Learning & Deep Learning**
+- 🧠 Strong foundation in **ML algorithms, Deep Learning & Statistics**
+- 📊 Passionate about **data-driven decision making**
+- 🌱 Currently learning **advanced AI & neural networks**
+- 💡 Love solving **real-world problems using data**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 👨‍💻 Programming & Libraries
-<p align="left">
+### 👨‍💻 Languages & Frameworks
+<p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 </p>
 
+### 📚 Libraries & Tools
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -32,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats (Auto-Updating)
+## 📊 GitHub Stats (Live)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaygill-ai-ml&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -49,19 +50,16 @@
 
 ---
 
-## 📌 Featured Projects (Auto Updates)
-> ⭐ Your **latest repositories will automatically appear here**
+## 📌 Featured Projects
+> ⭐ Highlight your best work here
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjaygill-ai-ml&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjaygill-ai-ml&repo=YOUR_REPO_NAME&theme=tokyonight"/>
 </p>
-
-🔁 Replace `YOUR_REPO_NAME` with your best project name  
-(Add more pins if you want)
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaygill-ai-ml&theme=tokyo-night&hide_border=true"/>
@@ -70,19 +68,17 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sanjay-gill-01a282348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Gill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sanjaygill1410@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sanjaygill1410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaygill-ai-ml&label=Profile%20Views&color=36BCF7&style=flat"/>
-</p>
+⭐ **If you like my work, don’t forget to star my repositories!**
 
-⭐ **If you like my work, give a star to my repositories!**
