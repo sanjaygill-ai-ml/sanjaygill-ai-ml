@@ -100,49 +100,16 @@ status    : Open to full-time & freelance work ✅
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaygill-ai-ml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33ff57&icon_color=33ff57&text_color=c9d1d9&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaygill-ai-ml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33ff57&text_color=c9d1d9&border_radius=10" height="170"/>
-</div>
+### 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sanjaygill-ai-ml&theme=tokyonight&hide_border=true&background=0d1117&ring=33ff57&fire=33ff57&currStreakLabel=33ff57&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" height="170"/>
 </div>
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjaygill-ai-ml&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
-
----
-
-### 🚧 Currently Building
-
-```
-> status: in_progress
-> details: classified until ship day 🔒
-> what you CAN do: check pinned repos below for what's live
-```
-
-I keep this profile's pinned repos as the source of truth for real, shipped work — pin yours from the **Customize your pins** option on your GitHub profile so this section always reflects what's actually live, no manual upkeep needed.
-
 <div align="center">
   <a href="https://github.com/sanjaygill-ai-ml?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOS-121212?style=for-the-badge&logo=github&logoColor=33ff57"/>
   </a>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaygill-ai-ml&theme=react-dark&hide_border=true&bg_color=0d1117&color=33ff57&line=33ff57&point=ffffff&area=true" width="100%"/>
 </div>
 
 ---
