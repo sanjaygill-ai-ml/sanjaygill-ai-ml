@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg?v=1" alt="Sanjay Gill - Full Stack Developer & MLOps Engineer" width="100%"/>
+<img src="hero.svg?v=1" alt="Sanjay  - Full Stack Developer & MLOps Engineer" width="100%"/>
 
 <img src="stack.svg?v=1" alt="Tech stack" width="100%"/>
 
